@@ -1,0 +1,53 @@
+.contactBox {
+  max-width: 420px;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  background: #ffffff;
+  border-radius: 12px;
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.heading {
+  color: #0a66c2;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.simple{
+  font-size: 1rem;
+  color: #232526;
+  margin: 1.5rem;
+}
+.name {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #232526;
+  margin-bottom: 0.2rem;
+}
+
+
+.link {
+  color: #0a66c2;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+}
+.link:hover {
+  color: #004182;
+  text-decoration: underline;
+}
+
+.phone {
+  color: #232526;
+  font-size: 1rem;
+  font-weight: 500;
+  margin-top: 1rem;
+}
+
+.linkedinIcon {
+  width: 20px;
+  height: 20px;
+  vertical-align: middle;
+  fill: #0a66c2;
+}
